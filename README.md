@@ -1,3 +1,3 @@
 # CGBA
 
-Data and code will will be made available upon publication.
+Data and code will be made available upon publication.
